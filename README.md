@@ -9,3 +9,6 @@
 - Laura Linares López
 - Javier Pérez Martín
 - Mario Romera Braojos
+
+### Descripción del Proyecto
+Robot autónomo soporte a guardias. Sistema de visión artificial.
