@@ -1,0 +1,1 @@
+Espacio Compartido para documentos comunes.
